@@ -1,0 +1,73 @@
+location_id,region,division,service_branch,employee_partners,support_tier,safety_lead_tenure_years,go_live_wave
+LOC-1001,Great Lakes,Uniform Rental,GR-UNI-1,129,high_touch,6.9,2
+LOC-1002,Great Lakes,Uniform Rental,GR-UNI-2,140,high_touch,6.9,3
+LOC-1003,Great Lakes,Uniform Rental,GR-UNI-3,141,high_touch,3.1,2
+LOC-1004,Great Lakes,First Aid & Safety,GR-FIR-1,39,high_touch,7.6,4
+LOC-1005,Great Lakes,First Aid & Safety,GR-FIR-2,122,high_touch,2.6,1
+LOC-1006,Great Lakes,First Aid & Safety,GR-FIR-3,145,high_touch,4.4,3
+LOC-1007,Great Lakes,Fire Protection,GR-FIR-1,115,high_touch,0.8,2
+LOC-1008,Great Lakes,Fire Protection,GR-FIR-2,74,high_touch,3.5,1
+LOC-1009,Great Lakes,Fire Protection,GR-FIR-3,141,high_touch,2.7,2
+LOC-1010,Great Lakes,Facility Services,GR-FAC-1,77,high_touch,2.7,2
+LOC-1011,Great Lakes,Facility Services,GR-FAC-2,135,high_touch,3.6,2
+LOC-1012,Great Lakes,Facility Services,GR-FAC-3,194,high_touch,7.1,3
+LOC-1013,Midwest,Uniform Rental,MI-UNI-1,114,standard,2.0,3
+LOC-1014,Midwest,Uniform Rental,MI-UNI-2,207,high_touch,4.1,1
+LOC-1015,Midwest,Uniform Rental,MI-UNI-3,186,high_touch,7.4,2
+LOC-1016,Midwest,First Aid & Safety,MI-FIR-1,96,standard,6.2,2
+LOC-1017,Midwest,First Aid & Safety,MI-FIR-2,89,standard,3.5,1
+LOC-1018,Midwest,First Aid & Safety,MI-FIR-3,153,high_touch,7.0,1
+LOC-1019,Midwest,Fire Protection,MI-FIR-1,140,standard,0.4,1
+LOC-1020,Midwest,Fire Protection,MI-FIR-2,48,standard,2.5,4
+LOC-1021,Midwest,Fire Protection,MI-FIR-3,139,standard,6.5,2
+LOC-1022,Midwest,Facility Services,MI-FAC-1,203,high_touch,1.6,2
+LOC-1023,Midwest,Facility Services,MI-FAC-2,142,standard,5.0,4
+LOC-1024,Midwest,Facility Services,MI-FAC-3,112,standard,4.8,2
+LOC-1025,Northeast,Uniform Rental,NO-UNI-1,95,standard,2.9,1
+LOC-1026,Northeast,Uniform Rental,NO-UNI-2,150,standard,1.9,2
+LOC-1027,Northeast,Uniform Rental,NO-UNI-3,89,standard,7.1,3
+LOC-1028,Northeast,First Aid & Safety,NO-FIR-1,167,high_touch,6.6,1
+LOC-1029,Northeast,First Aid & Safety,NO-FIR-2,131,standard,7.2,4
+LOC-1030,Northeast,First Aid & Safety,NO-FIR-3,179,high_touch,7.3,4
+LOC-1031,Northeast,Fire Protection,NO-FIR-1,53,standard,6.3,4
+LOC-1032,Northeast,Fire Protection,NO-FIR-2,195,high_touch,2.9,2
+LOC-1033,Northeast,Fire Protection,NO-FIR-3,203,high_touch,0.3,2
+LOC-1034,Northeast,Facility Services,NO-FAC-1,98,standard,1.4,4
+LOC-1035,Northeast,Facility Services,NO-FAC-2,103,standard,6.9,4
+LOC-1036,Northeast,Facility Services,NO-FAC-3,141,standard,1.8,4
+LOC-1037,Southeast,Uniform Rental,SO-UNI-1,60,high_touch,2.7,2
+LOC-1038,Southeast,Uniform Rental,SO-UNI-2,148,high_touch,2.0,1
+LOC-1039,Southeast,Uniform Rental,SO-UNI-3,128,high_touch,3.0,2
+LOC-1040,Southeast,First Aid & Safety,SO-FIR-1,150,high_touch,3.6,2
+LOC-1041,Southeast,First Aid & Safety,SO-FIR-2,128,high_touch,7.8,2
+LOC-1042,Southeast,First Aid & Safety,SO-FIR-3,190,high_touch,7.1,2
+LOC-1043,Southeast,Fire Protection,SO-FIR-1,196,high_touch,5.7,4
+LOC-1044,Southeast,Fire Protection,SO-FIR-2,192,high_touch,1.4,2
+LOC-1045,Southeast,Fire Protection,SO-FIR-3,181,high_touch,8.0,4
+LOC-1046,Southeast,Facility Services,SO-FAC-1,75,high_touch,4.3,4
+LOC-1047,Southeast,Facility Services,SO-FAC-2,114,high_touch,6.0,3
+LOC-1048,Southeast,Facility Services,SO-FAC-3,144,high_touch,6.0,3
+LOC-1049,South Central,Uniform Rental,SO-UNI-1,50,standard,3.7,2
+LOC-1050,South Central,Uniform Rental,SO-UNI-2,133,standard,1.5,3
+LOC-1051,South Central,Uniform Rental,SO-UNI-3,69,standard,7.6,1
+LOC-1052,South Central,First Aid & Safety,SO-FIR-1,124,standard,5.0,1
+LOC-1053,South Central,First Aid & Safety,SO-FIR-2,48,standard,6.1,4
+LOC-1054,South Central,First Aid & Safety,SO-FIR-3,87,standard,0.4,4
+LOC-1055,South Central,Fire Protection,SO-FIR-1,112,standard,0.5,1
+LOC-1056,South Central,Fire Protection,SO-FIR-2,143,standard,0.5,2
+LOC-1057,South Central,Fire Protection,SO-FIR-3,39,standard,4.1,2
+LOC-1058,South Central,Facility Services,SO-FAC-1,117,standard,6.9,2
+LOC-1059,South Central,Facility Services,SO-FAC-2,75,standard,2.2,2
+LOC-1060,South Central,Facility Services,SO-FAC-3,62,standard,0.8,1
+LOC-1061,West,Uniform Rental,WE-UNI-1,164,high_touch,4.7,1
+LOC-1062,West,Uniform Rental,WE-UNI-2,115,standard,6.1,1
+LOC-1063,West,Uniform Rental,WE-UNI-3,38,standard,6.9,2
+LOC-1064,West,First Aid & Safety,WE-FIR-1,161,high_touch,1.4,2
+LOC-1065,West,First Aid & Safety,WE-FIR-2,68,standard,0.7,4
+LOC-1066,West,First Aid & Safety,WE-FIR-3,188,high_touch,6.9,2
+LOC-1067,West,Fire Protection,WE-FIR-1,159,high_touch,7.2,1
+LOC-1068,West,Fire Protection,WE-FIR-2,206,high_touch,4.6,4
+LOC-1069,West,Fire Protection,WE-FIR-3,75,standard,5.7,1
+LOC-1070,West,Facility Services,WE-FAC-1,183,high_touch,4.8,1
+LOC-1071,West,Facility Services,WE-FAC-2,46,standard,6.5,2
+LOC-1072,West,Facility Services,WE-FAC-3,110,standard,2.5,3

@@ -1,0 +1,13 @@
+{
+  "source_report_runs": 8736,
+  "source_exceptions": 4194,
+  "source_quality_checks": 5400,
+  "field_support_requests": 839,
+  "overall_exception_rate_per_report_run": 0.4801,
+  "recurring_report_sla_adherence": 0.8164,
+  "average_report_completeness": 0.9642,
+  "data_quality_pass_rate": 0.9642,
+  "open_high_or_critical_exceptions": 502,
+  "rollout_training_completion": 0.7845,
+  "field_support_request_sla": 0.7569
+}

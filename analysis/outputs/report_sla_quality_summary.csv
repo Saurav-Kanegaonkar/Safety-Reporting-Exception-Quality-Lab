@@ -1,0 +1,9 @@
+report_name,cadence,source_system,report_runs,sla_adherence,avg_refresh_delay_hours,avg_completeness,duplicate_keys,unmapped_records
+Ad Hoc Leader Request,ad_hoc,Corporate Request,818,0.5844,1.7762,0.9657,459,2442
+Chemical SDS Coverage,weekly,MSDS,718,0.7061,3.0813,0.9655,405,2098
+Contractor Compliance Snapshot,weekly,ISN,716,0.8101,2.4972,0.9637,384,2101
+Daily Incident Intake,daily,Safety Logic,4797,0.9458,4.1818,0.9662,8269,13938
+Monthly Field Safety Scorecard,monthly,Safety Logic,151,0.8278,3.5911,0.9623,263,451
+PPE Readiness Tracker,weekly,PICS,672,0.5164,3.9592,0.9482,404,2019
+Vendor Credential Audit,monthly,Browz,150,0.7067,5.1037,0.9468,86,461
+Weekly Exception Review,weekly,Safety Logic,714,0.6331,2.4501,0.9671,1247,2087

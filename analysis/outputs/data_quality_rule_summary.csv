@@ -1,0 +1,43 @@
+source_system,check_name,records_tested,failed_records,failure_rate
+PICS,vendor_credential_current,16527,1305,0.079
+Browz,vendor_credential_current,2325,173,0.0744
+PICS,employee_partner_mapped,14150,1027,0.0726
+Browz,corrective_action_status_valid,3213,224,0.0697
+PICS,source_extract_arrived,16035,1106,0.069
+PICS,corrective_action_status_valid,13724,942,0.0686
+Browz,employee_partner_mapped,3067,207,0.0675
+Browz,completion_date_present,3766,239,0.0635
+Browz,source_extract_arrived,3383,206,0.0609
+PICS,completion_date_present,16154,928,0.0574
+MSDS,vendor_credential_current,12116,657,0.0542
+PICS,incident_key_unique,14028,726,0.0518
+Corporate Request,vendor_credential_current,16322,842,0.0516
+Browz,incident_key_unique,3467,178,0.0513
+ISN,vendor_credential_current,15896,785,0.0494
+Safety Logic,vendor_credential_current,104919,5106,0.0487
+Corporate Request,employee_partner_mapped,19746,933,0.0473
+MSDS,employee_partner_mapped,15084,681,0.0451
+ISN,employee_partner_mapped,14853,634,0.0427
+PICS,location_id_present,11147,469,0.0421
+Corporate Request,corrective_action_status_valid,15467,615,0.0398
+Corporate Request,source_extract_arrived,17350,685,0.0395
+Safety Logic,employee_partner_mapped,105258,4138,0.0393
+MSDS,source_extract_arrived,12013,467,0.0389
+Browz,location_id_present,4013,153,0.0381
+ISN,source_extract_arrived,15417,552,0.0358
+Safety Logic,source_extract_arrived,109753,3830,0.0349
+MSDS,corrective_action_status_valid,13370,435,0.0325
+Safety Logic,corrective_action_status_valid,104043,3311,0.0318
+ISN,corrective_action_status_valid,15798,499,0.0316
+Corporate Request,completion_date_present,14865,464,0.0312
+ISN,completion_date_present,11151,342,0.0307
+Corporate Request,incident_key_unique,17116,506,0.0296
+MSDS,completion_date_present,14348,419,0.0292
+Safety Logic,completion_date_present,98363,2779,0.0283
+ISN,incident_key_unique,11411,271,0.0237
+MSDS,incident_key_unique,14267,338,0.0237
+Safety Logic,incident_key_unique,109316,2462,0.0225
+Corporate Request,location_id_present,17219,362,0.021
+ISN,location_id_present,14824,243,0.0164
+MSDS,location_id_present,14873,229,0.0154
+Safety Logic,location_id_present,99631,1355,0.0136

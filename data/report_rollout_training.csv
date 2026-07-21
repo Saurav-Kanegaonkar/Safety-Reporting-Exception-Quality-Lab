@@ -1,0 +1,361 @@
+assignment_id,location_id,region,division,go_live_wave,module_name,audience,assigned_employee_partners,completed_employee_partners,overdue_employee_partners,completion_rate
+TRN-00001,LOC-1001,Great Lakes,Uniform Rental,2,Report Exception Intake,safety_leads,29,24,1,0.8276
+TRN-00002,LOC-1001,Great Lakes,Uniform Rental,2,Daily Safety Report Refresh,field_operations,31,22,7,0.7097
+TRN-00003,LOC-1001,Great Lakes,Uniform Rental,2,SDS and Vendor Source Updates,field_operations,43,32,11,0.7442
+TRN-00004,LOC-1001,Great Lakes,Uniform Rental,2,Corrective Action Coding,safety_leads,51,47,3,0.9216
+TRN-00005,LOC-1001,Great Lakes,Uniform Rental,2,Leader Request Triage,business_leaders,40,33,7,0.825
+TRN-00006,LOC-1002,Great Lakes,Uniform Rental,3,Report Exception Intake,safety_leads,25,22,1,0.88
+TRN-00007,LOC-1002,Great Lakes,Uniform Rental,3,Daily Safety Report Refresh,field_operations,51,43,4,0.8431
+TRN-00008,LOC-1002,Great Lakes,Uniform Rental,3,SDS and Vendor Source Updates,field_operations,37,29,5,0.7838
+TRN-00009,LOC-1002,Great Lakes,Uniform Rental,3,Corrective Action Coding,safety_leads,40,29,10,0.725
+TRN-00010,LOC-1002,Great Lakes,Uniform Rental,3,Leader Request Triage,business_leaders,64,46,18,0.7188
+TRN-00011,LOC-1003,Great Lakes,Uniform Rental,2,Report Exception Intake,safety_leads,40,31,7,0.775
+TRN-00012,LOC-1003,Great Lakes,Uniform Rental,2,Daily Safety Report Refresh,field_operations,37,30,6,0.8108
+TRN-00013,LOC-1003,Great Lakes,Uniform Rental,2,SDS and Vendor Source Updates,field_operations,36,28,5,0.7778
+TRN-00014,LOC-1003,Great Lakes,Uniform Rental,2,Corrective Action Coding,safety_leads,53,43,10,0.8113
+TRN-00015,LOC-1003,Great Lakes,Uniform Rental,2,Leader Request Triage,business_leaders,24,23,1,0.9583
+TRN-00016,LOC-1004,Great Lakes,First Aid & Safety,4,Report Exception Intake,safety_leads,8,6,0,0.75
+TRN-00017,LOC-1004,Great Lakes,First Aid & Safety,4,Daily Safety Report Refresh,field_operations,8,6,2,0.75
+TRN-00018,LOC-1004,Great Lakes,First Aid & Safety,4,SDS and Vendor Source Updates,field_operations,13,9,1,0.6923
+TRN-00019,LOC-1004,Great Lakes,First Aid & Safety,4,Corrective Action Coding,safety_leads,8,5,0,0.625
+TRN-00020,LOC-1004,Great Lakes,First Aid & Safety,4,Leader Request Triage,business_leaders,9,5,3,0.5556
+TRN-00021,LOC-1005,Great Lakes,First Aid & Safety,1,Report Exception Intake,safety_leads,27,27,0,1.0
+TRN-00022,LOC-1005,Great Lakes,First Aid & Safety,1,Daily Safety Report Refresh,field_operations,46,46,0,1.0
+TRN-00023,LOC-1005,Great Lakes,First Aid & Safety,1,SDS and Vendor Source Updates,field_operations,32,28,3,0.875
+TRN-00024,LOC-1005,Great Lakes,First Aid & Safety,1,Corrective Action Coding,safety_leads,24,22,0,0.9167
+TRN-00025,LOC-1005,Great Lakes,First Aid & Safety,1,Leader Request Triage,business_leaders,64,58,2,0.9062
+TRN-00026,LOC-1006,Great Lakes,First Aid & Safety,3,Report Exception Intake,safety_leads,60,49,9,0.8167
+TRN-00027,LOC-1006,Great Lakes,First Aid & Safety,3,Daily Safety Report Refresh,field_operations,45,33,10,0.7333
+TRN-00028,LOC-1006,Great Lakes,First Aid & Safety,3,SDS and Vendor Source Updates,field_operations,41,30,9,0.7317
+TRN-00029,LOC-1006,Great Lakes,First Aid & Safety,3,Corrective Action Coding,safety_leads,19,16,1,0.8421
+TRN-00030,LOC-1006,Great Lakes,First Aid & Safety,3,Leader Request Triage,business_leaders,38,28,8,0.7368
+TRN-00031,LOC-1007,Great Lakes,Fire Protection,2,Report Exception Intake,safety_leads,42,33,9,0.7857
+TRN-00032,LOC-1007,Great Lakes,Fire Protection,2,Daily Safety Report Refresh,field_operations,43,34,5,0.7907
+TRN-00033,LOC-1007,Great Lakes,Fire Protection,2,SDS and Vendor Source Updates,field_operations,21,17,3,0.8095
+TRN-00034,LOC-1007,Great Lakes,Fire Protection,2,Corrective Action Coding,safety_leads,51,40,7,0.7843
+TRN-00035,LOC-1007,Great Lakes,Fire Protection,2,Leader Request Triage,business_leaders,25,22,0,0.88
+TRN-00036,LOC-1008,Great Lakes,Fire Protection,1,Report Exception Intake,safety_leads,27,25,0,0.9259
+TRN-00037,LOC-1008,Great Lakes,Fire Protection,1,Daily Safety Report Refresh,field_operations,24,23,0,0.9583
+TRN-00038,LOC-1008,Great Lakes,Fire Protection,1,SDS and Vendor Source Updates,field_operations,21,20,0,0.9524
+TRN-00039,LOC-1008,Great Lakes,Fire Protection,1,Corrective Action Coding,safety_leads,39,31,5,0.7949
+TRN-00040,LOC-1008,Great Lakes,Fire Protection,1,Leader Request Triage,business_leaders,18,14,2,0.7778
+TRN-00041,LOC-1009,Great Lakes,Fire Protection,2,Report Exception Intake,safety_leads,48,39,8,0.8125
+TRN-00042,LOC-1009,Great Lakes,Fire Protection,2,Daily Safety Report Refresh,field_operations,45,39,3,0.8667
+TRN-00043,LOC-1009,Great Lakes,Fire Protection,2,SDS and Vendor Source Updates,field_operations,29,25,2,0.8621
+TRN-00044,LOC-1009,Great Lakes,Fire Protection,2,Corrective Action Coding,safety_leads,42,27,14,0.6429
+TRN-00045,LOC-1009,Great Lakes,Fire Protection,2,Leader Request Triage,business_leaders,40,32,7,0.8
+TRN-00046,LOC-1010,Great Lakes,Facility Services,2,Report Exception Intake,safety_leads,34,29,1,0.8529
+TRN-00047,LOC-1010,Great Lakes,Facility Services,2,Daily Safety Report Refresh,field_operations,23,19,4,0.8261
+TRN-00048,LOC-1010,Great Lakes,Facility Services,2,SDS and Vendor Source Updates,field_operations,18,16,0,0.8889
+TRN-00049,LOC-1010,Great Lakes,Facility Services,2,Corrective Action Coding,safety_leads,30,28,0,0.9333
+TRN-00050,LOC-1010,Great Lakes,Facility Services,2,Leader Request Triage,business_leaders,27,22,2,0.8148
+TRN-00051,LOC-1011,Great Lakes,Facility Services,2,Report Exception Intake,safety_leads,30,25,2,0.8333
+TRN-00052,LOC-1011,Great Lakes,Facility Services,2,Daily Safety Report Refresh,field_operations,43,34,9,0.7907
+TRN-00053,LOC-1011,Great Lakes,Facility Services,2,SDS and Vendor Source Updates,field_operations,22,20,0,0.9091
+TRN-00054,LOC-1011,Great Lakes,Facility Services,2,Corrective Action Coding,safety_leads,24,21,0,0.875
+TRN-00055,LOC-1011,Great Lakes,Facility Services,2,Leader Request Triage,business_leaders,37,30,4,0.8108
+TRN-00056,LOC-1012,Great Lakes,Facility Services,3,Report Exception Intake,safety_leads,39,29,7,0.7436
+TRN-00057,LOC-1012,Great Lakes,Facility Services,3,Daily Safety Report Refresh,field_operations,53,42,9,0.7925
+TRN-00058,LOC-1012,Great Lakes,Facility Services,3,SDS and Vendor Source Updates,field_operations,49,32,17,0.6531
+TRN-00059,LOC-1012,Great Lakes,Facility Services,3,Corrective Action Coding,safety_leads,48,40,6,0.8333
+TRN-00060,LOC-1012,Great Lakes,Facility Services,3,Leader Request Triage,business_leaders,62,44,16,0.7097
+TRN-00061,LOC-1013,Midwest,Uniform Rental,3,Report Exception Intake,safety_leads,46,26,16,0.5652
+TRN-00062,LOC-1013,Midwest,Uniform Rental,3,Daily Safety Report Refresh,field_operations,23,15,5,0.6522
+TRN-00063,LOC-1013,Midwest,Uniform Rental,3,SDS and Vendor Source Updates,field_operations,20,16,2,0.8
+TRN-00064,LOC-1013,Midwest,Uniform Rental,3,Corrective Action Coding,safety_leads,20,13,3,0.65
+TRN-00065,LOC-1013,Midwest,Uniform Rental,3,Leader Request Triage,business_leaders,58,41,14,0.7069
+TRN-00066,LOC-1014,Midwest,Uniform Rental,1,Report Exception Intake,safety_leads,51,50,0,0.9804
+TRN-00067,LOC-1014,Midwest,Uniform Rental,1,Daily Safety Report Refresh,field_operations,41,40,0,0.9756
+TRN-00068,LOC-1014,Midwest,Uniform Rental,1,SDS and Vendor Source Updates,field_operations,49,40,5,0.8163
+TRN-00069,LOC-1014,Midwest,Uniform Rental,1,Corrective Action Coding,safety_leads,62,59,1,0.9516
+TRN-00070,LOC-1014,Midwest,Uniform Rental,1,Leader Request Triage,business_leaders,43,32,7,0.7442
+TRN-00071,LOC-1015,Midwest,Uniform Rental,2,Report Exception Intake,safety_leads,68,50,17,0.7353
+TRN-00072,LOC-1015,Midwest,Uniform Rental,2,Daily Safety Report Refresh,field_operations,51,50,1,0.9804
+TRN-00073,LOC-1015,Midwest,Uniform Rental,2,SDS and Vendor Source Updates,field_operations,54,49,4,0.9074
+TRN-00074,LOC-1015,Midwest,Uniform Rental,2,Corrective Action Coding,safety_leads,39,29,8,0.7436
+TRN-00075,LOC-1015,Midwest,Uniform Rental,2,Leader Request Triage,business_leaders,61,46,14,0.7541
+TRN-00076,LOC-1016,Midwest,First Aid & Safety,2,Report Exception Intake,safety_leads,29,21,4,0.7241
+TRN-00077,LOC-1016,Midwest,First Aid & Safety,2,Daily Safety Report Refresh,field_operations,47,34,11,0.7234
+TRN-00078,LOC-1016,Midwest,First Aid & Safety,2,SDS and Vendor Source Updates,field_operations,42,37,3,0.881
+TRN-00079,LOC-1016,Midwest,First Aid & Safety,2,Corrective Action Coding,safety_leads,24,19,2,0.7917
+TRN-00080,LOC-1016,Midwest,First Aid & Safety,2,Leader Request Triage,business_leaders,26,18,4,0.6923
+TRN-00081,LOC-1017,Midwest,First Aid & Safety,1,Report Exception Intake,safety_leads,10,9,0,0.9
+TRN-00082,LOC-1017,Midwest,First Aid & Safety,1,Daily Safety Report Refresh,field_operations,51,40,10,0.7843
+TRN-00083,LOC-1017,Midwest,First Aid & Safety,1,SDS and Vendor Source Updates,field_operations,10,7,0,0.7
+TRN-00084,LOC-1017,Midwest,First Aid & Safety,1,Corrective Action Coding,safety_leads,41,32,7,0.7805
+TRN-00085,LOC-1017,Midwest,First Aid & Safety,1,Leader Request Triage,business_leaders,27,20,4,0.7407
+TRN-00086,LOC-1018,Midwest,First Aid & Safety,1,Report Exception Intake,safety_leads,38,29,7,0.7632
+TRN-00087,LOC-1018,Midwest,First Aid & Safety,1,Daily Safety Report Refresh,field_operations,38,37,0,0.9737
+TRN-00088,LOC-1018,Midwest,First Aid & Safety,1,SDS and Vendor Source Updates,field_operations,57,55,0,0.9649
+TRN-00089,LOC-1018,Midwest,First Aid & Safety,1,Corrective Action Coding,safety_leads,54,44,10,0.8148
+TRN-00090,LOC-1018,Midwest,First Aid & Safety,1,Leader Request Triage,business_leaders,27,25,1,0.9259
+TRN-00091,LOC-1019,Midwest,Fire Protection,1,Report Exception Intake,safety_leads,35,22,11,0.6286
+TRN-00092,LOC-1019,Midwest,Fire Protection,1,Daily Safety Report Refresh,field_operations,33,25,7,0.7576
+TRN-00093,LOC-1019,Midwest,Fire Protection,1,SDS and Vendor Source Updates,field_operations,68,66,0,0.9706
+TRN-00094,LOC-1019,Midwest,Fire Protection,1,Corrective Action Coding,safety_leads,41,35,6,0.8537
+TRN-00095,LOC-1019,Midwest,Fire Protection,1,Leader Request Triage,business_leaders,36,32,2,0.8889
+TRN-00096,LOC-1020,Midwest,Fire Protection,4,Report Exception Intake,safety_leads,13,9,4,0.6923
+TRN-00097,LOC-1020,Midwest,Fire Protection,4,Daily Safety Report Refresh,field_operations,11,8,1,0.7273
+TRN-00098,LOC-1020,Midwest,Fire Protection,4,SDS and Vendor Source Updates,field_operations,24,15,9,0.625
+TRN-00099,LOC-1020,Midwest,Fire Protection,4,Corrective Action Coding,safety_leads,21,12,6,0.5714
+TRN-00100,LOC-1020,Midwest,Fire Protection,4,Leader Request Triage,business_leaders,21,15,4,0.7143
+TRN-00101,LOC-1021,Midwest,Fire Protection,2,Report Exception Intake,safety_leads,34,31,0,0.9118
+TRN-00102,LOC-1021,Midwest,Fire Protection,2,Daily Safety Report Refresh,field_operations,21,17,3,0.8095
+TRN-00103,LOC-1021,Midwest,Fire Protection,2,SDS and Vendor Source Updates,field_operations,40,34,4,0.85
+TRN-00104,LOC-1021,Midwest,Fire Protection,2,Corrective Action Coding,safety_leads,24,22,0,0.9167
+TRN-00105,LOC-1021,Midwest,Fire Protection,2,Leader Request Triage,business_leaders,36,32,2,0.8889
+TRN-00106,LOC-1022,Midwest,Facility Services,2,Report Exception Intake,safety_leads,58,38,18,0.6552
+TRN-00107,LOC-1022,Midwest,Facility Services,2,Daily Safety Report Refresh,field_operations,48,36,8,0.75
+TRN-00108,LOC-1022,Midwest,Facility Services,2,SDS and Vendor Source Updates,field_operations,51,44,5,0.8627
+TRN-00109,LOC-1022,Midwest,Facility Services,2,Corrective Action Coding,safety_leads,30,25,5,0.8333
+TRN-00110,LOC-1022,Midwest,Facility Services,2,Leader Request Triage,business_leaders,64,62,0,0.9688
+TRN-00111,LOC-1023,Midwest,Facility Services,4,Report Exception Intake,safety_leads,44,26,14,0.5909
+TRN-00112,LOC-1023,Midwest,Facility Services,4,Daily Safety Report Refresh,field_operations,22,14,8,0.6364
+TRN-00113,LOC-1023,Midwest,Facility Services,4,SDS and Vendor Source Updates,field_operations,32,20,12,0.625
+TRN-00114,LOC-1023,Midwest,Facility Services,4,Corrective Action Coding,safety_leads,49,31,18,0.6327
+TRN-00115,LOC-1023,Midwest,Facility Services,4,Leader Request Triage,business_leaders,49,27,19,0.551
+TRN-00116,LOC-1024,Midwest,Facility Services,2,Report Exception Intake,safety_leads,10,8,1,0.8
+TRN-00117,LOC-1024,Midwest,Facility Services,2,Daily Safety Report Refresh,field_operations,19,16,0,0.8421
+TRN-00118,LOC-1024,Midwest,Facility Services,2,SDS and Vendor Source Updates,field_operations,36,23,11,0.6389
+TRN-00119,LOC-1024,Midwest,Facility Services,2,Corrective Action Coding,safety_leads,24,18,6,0.75
+TRN-00120,LOC-1024,Midwest,Facility Services,2,Leader Request Triage,business_leaders,20,16,0,0.8
+TRN-00121,LOC-1025,Northeast,Uniform Rental,1,Report Exception Intake,safety_leads,31,27,4,0.871
+TRN-00122,LOC-1025,Northeast,Uniform Rental,1,Daily Safety Report Refresh,field_operations,16,15,0,0.9375
+TRN-00123,LOC-1025,Northeast,Uniform Rental,1,SDS and Vendor Source Updates,field_operations,18,15,0,0.8333
+TRN-00124,LOC-1025,Northeast,Uniform Rental,1,Corrective Action Coding,safety_leads,9,8,0,0.8889
+TRN-00125,LOC-1025,Northeast,Uniform Rental,1,Leader Request Triage,business_leaders,24,16,8,0.6667
+TRN-00126,LOC-1026,Northeast,Uniform Rental,2,Report Exception Intake,safety_leads,41,29,8,0.7073
+TRN-00127,LOC-1026,Northeast,Uniform Rental,2,Daily Safety Report Refresh,field_operations,36,33,0,0.9167
+TRN-00128,LOC-1026,Northeast,Uniform Rental,2,SDS and Vendor Source Updates,field_operations,34,26,4,0.7647
+TRN-00129,LOC-1026,Northeast,Uniform Rental,2,Corrective Action Coding,safety_leads,32,24,7,0.75
+TRN-00130,LOC-1026,Northeast,Uniform Rental,2,Leader Request Triage,business_leaders,34,29,4,0.8529
+TRN-00131,LOC-1027,Northeast,Uniform Rental,3,Report Exception Intake,safety_leads,30,20,9,0.6667
+TRN-00132,LOC-1027,Northeast,Uniform Rental,3,Daily Safety Report Refresh,field_operations,8,6,0,0.75
+TRN-00133,LOC-1027,Northeast,Uniform Rental,3,SDS and Vendor Source Updates,field_operations,27,19,5,0.7037
+TRN-00134,LOC-1027,Northeast,Uniform Rental,3,Corrective Action Coding,safety_leads,19,13,5,0.6842
+TRN-00135,LOC-1027,Northeast,Uniform Rental,3,Leader Request Triage,business_leaders,44,32,8,0.7273
+TRN-00136,LOC-1028,Northeast,First Aid & Safety,1,Report Exception Intake,safety_leads,50,50,0,1.0
+TRN-00137,LOC-1028,Northeast,First Aid & Safety,1,Daily Safety Report Refresh,field_operations,38,38,0,1.0
+TRN-00138,LOC-1028,Northeast,First Aid & Safety,1,SDS and Vendor Source Updates,field_operations,27,26,1,0.963
+TRN-00139,LOC-1028,Northeast,First Aid & Safety,1,Corrective Action Coding,safety_leads,60,52,4,0.8667
+TRN-00140,LOC-1028,Northeast,First Aid & Safety,1,Leader Request Triage,business_leaders,54,50,3,0.9259
+TRN-00141,LOC-1029,Northeast,First Aid & Safety,4,Report Exception Intake,safety_leads,55,32,23,0.5818
+TRN-00142,LOC-1029,Northeast,First Aid & Safety,4,Daily Safety Report Refresh,field_operations,39,21,18,0.5385
+TRN-00143,LOC-1029,Northeast,First Aid & Safety,4,SDS and Vendor Source Updates,field_operations,26,17,6,0.6538
+TRN-00144,LOC-1029,Northeast,First Aid & Safety,4,Corrective Action Coding,safety_leads,51,28,23,0.549
+TRN-00145,LOC-1029,Northeast,First Aid & Safety,4,Leader Request Triage,business_leaders,38,23,13,0.6053
+TRN-00146,LOC-1030,Northeast,First Aid & Safety,4,Report Exception Intake,safety_leads,52,35,14,0.6731
+TRN-00147,LOC-1030,Northeast,First Aid & Safety,4,Daily Safety Report Refresh,field_operations,65,41,21,0.6308
+TRN-00148,LOC-1030,Northeast,First Aid & Safety,4,SDS and Vendor Source Updates,field_operations,45,32,13,0.7111
+TRN-00149,LOC-1030,Northeast,First Aid & Safety,4,Corrective Action Coding,safety_leads,49,35,13,0.7143
+TRN-00150,LOC-1030,Northeast,First Aid & Safety,4,Leader Request Triage,business_leaders,49,27,18,0.551
+TRN-00151,LOC-1031,Northeast,Fire Protection,4,Report Exception Intake,safety_leads,8,4,2,0.5
+TRN-00152,LOC-1031,Northeast,Fire Protection,4,Daily Safety Report Refresh,field_operations,29,17,12,0.5862
+TRN-00153,LOC-1031,Northeast,Fire Protection,4,SDS and Vendor Source Updates,field_operations,20,13,3,0.65
+TRN-00154,LOC-1031,Northeast,Fire Protection,4,Corrective Action Coding,safety_leads,19,12,5,0.6316
+TRN-00155,LOC-1031,Northeast,Fire Protection,4,Leader Request Triage,business_leaders,10,7,0,0.7
+TRN-00156,LOC-1032,Northeast,Fire Protection,2,Report Exception Intake,safety_leads,48,43,4,0.8958
+TRN-00157,LOC-1032,Northeast,Fire Protection,2,Daily Safety Report Refresh,field_operations,42,40,1,0.9524
+TRN-00158,LOC-1032,Northeast,Fire Protection,2,SDS and Vendor Source Updates,field_operations,57,45,11,0.7895
+TRN-00159,LOC-1032,Northeast,Fire Protection,2,Corrective Action Coding,safety_leads,47,35,10,0.7447
+TRN-00160,LOC-1032,Northeast,Fire Protection,2,Leader Request Triage,business_leaders,44,28,16,0.6364
+TRN-00161,LOC-1033,Northeast,Fire Protection,2,Report Exception Intake,safety_leads,70,59,8,0.8429
+TRN-00162,LOC-1033,Northeast,Fire Protection,2,Daily Safety Report Refresh,field_operations,60,55,4,0.9167
+TRN-00163,LOC-1033,Northeast,Fire Protection,2,SDS and Vendor Source Updates,field_operations,71,55,12,0.7746
+TRN-00164,LOC-1033,Northeast,Fire Protection,2,Corrective Action Coding,safety_leads,54,48,3,0.8889
+TRN-00165,LOC-1033,Northeast,Fire Protection,2,Leader Request Triage,business_leaders,74,55,19,0.7432
+TRN-00166,LOC-1034,Northeast,Facility Services,4,Report Exception Intake,safety_leads,40,27,9,0.675
+TRN-00167,LOC-1034,Northeast,Facility Services,4,Daily Safety Report Refresh,field_operations,41,28,10,0.6829
+TRN-00168,LOC-1034,Northeast,Facility Services,4,SDS and Vendor Source Updates,field_operations,43,28,14,0.6512
+TRN-00169,LOC-1034,Northeast,Facility Services,4,Corrective Action Coding,safety_leads,35,22,12,0.6286
+TRN-00170,LOC-1034,Northeast,Facility Services,4,Leader Request Triage,business_leaders,53,33,19,0.6226
+TRN-00171,LOC-1035,Northeast,Facility Services,4,Report Exception Intake,safety_leads,15,9,6,0.6
+TRN-00172,LOC-1035,Northeast,Facility Services,4,Daily Safety Report Refresh,field_operations,38,22,12,0.5789
+TRN-00173,LOC-1035,Northeast,Facility Services,4,SDS and Vendor Source Updates,field_operations,22,15,4,0.6818
+TRN-00174,LOC-1035,Northeast,Facility Services,4,Corrective Action Coding,safety_leads,20,14,5,0.7
+TRN-00175,LOC-1035,Northeast,Facility Services,4,Leader Request Triage,business_leaders,29,21,5,0.7241
+TRN-00176,LOC-1036,Northeast,Facility Services,4,Report Exception Intake,safety_leads,52,29,19,0.5577
+TRN-00177,LOC-1036,Northeast,Facility Services,4,Daily Safety Report Refresh,field_operations,34,26,8,0.7647
+TRN-00178,LOC-1036,Northeast,Facility Services,4,SDS and Vendor Source Updates,field_operations,31,17,10,0.5484
+TRN-00179,LOC-1036,Northeast,Facility Services,4,Corrective Action Coding,safety_leads,27,17,6,0.6296
+TRN-00180,LOC-1036,Northeast,Facility Services,4,Leader Request Triage,business_leaders,38,23,14,0.6053
+TRN-00181,LOC-1037,Southeast,Uniform Rental,2,Report Exception Intake,safety_leads,9,7,0,0.7778
+TRN-00182,LOC-1037,Southeast,Uniform Rental,2,Daily Safety Report Refresh,field_operations,8,7,0,0.875
+TRN-00183,LOC-1037,Southeast,Uniform Rental,2,SDS and Vendor Source Updates,field_operations,19,16,2,0.8421
+TRN-00184,LOC-1037,Southeast,Uniform Rental,2,Corrective Action Coding,safety_leads,8,7,0,0.875
+TRN-00185,LOC-1037,Southeast,Uniform Rental,2,Leader Request Triage,business_leaders,8,7,0,0.875
+TRN-00186,LOC-1038,Southeast,Uniform Rental,1,Report Exception Intake,safety_leads,46,37,5,0.8043
+TRN-00187,LOC-1038,Southeast,Uniform Rental,1,Daily Safety Report Refresh,field_operations,59,52,4,0.8814
+TRN-00188,LOC-1038,Southeast,Uniform Rental,1,SDS and Vendor Source Updates,field_operations,43,42,0,0.9767
+TRN-00189,LOC-1038,Southeast,Uniform Rental,1,Corrective Action Coding,safety_leads,49,48,0,0.9796
+TRN-00190,LOC-1038,Southeast,Uniform Rental,1,Leader Request Triage,business_leaders,51,49,0,0.9608
+TRN-00191,LOC-1039,Southeast,Uniform Rental,2,Report Exception Intake,safety_leads,8,8,0,1.0
+TRN-00192,LOC-1039,Southeast,Uniform Rental,2,Daily Safety Report Refresh,field_operations,30,25,4,0.8333
+TRN-00193,LOC-1039,Southeast,Uniform Rental,2,SDS and Vendor Source Updates,field_operations,31,27,2,0.871
+TRN-00194,LOC-1039,Southeast,Uniform Rental,2,Corrective Action Coding,safety_leads,52,47,1,0.9038
+TRN-00195,LOC-1039,Southeast,Uniform Rental,2,Leader Request Triage,business_leaders,51,41,9,0.8039
+TRN-00196,LOC-1040,Southeast,First Aid & Safety,2,Report Exception Intake,safety_leads,40,37,0,0.925
+TRN-00197,LOC-1040,Southeast,First Aid & Safety,2,Daily Safety Report Refresh,field_operations,55,45,6,0.8182
+TRN-00198,LOC-1040,Southeast,First Aid & Safety,2,SDS and Vendor Source Updates,field_operations,54,39,11,0.7222
+TRN-00199,LOC-1040,Southeast,First Aid & Safety,2,Corrective Action Coding,safety_leads,30,23,4,0.7667
+TRN-00200,LOC-1040,Southeast,First Aid & Safety,2,Leader Request Triage,business_leaders,73,52,20,0.7123
+TRN-00201,LOC-1041,Southeast,First Aid & Safety,2,Report Exception Intake,safety_leads,18,18,0,1.0
+TRN-00202,LOC-1041,Southeast,First Aid & Safety,2,Daily Safety Report Refresh,field_operations,59,45,12,0.7627
+TRN-00203,LOC-1041,Southeast,First Aid & Safety,2,SDS and Vendor Source Updates,field_operations,33,28,4,0.8485
+TRN-00204,LOC-1041,Southeast,First Aid & Safety,2,Corrective Action Coding,safety_leads,25,18,3,0.72
+TRN-00205,LOC-1041,Southeast,First Aid & Safety,2,Leader Request Triage,business_leaders,37,32,3,0.8649
+TRN-00206,LOC-1042,Southeast,First Aid & Safety,2,Report Exception Intake,safety_leads,53,39,14,0.7358
+TRN-00207,LOC-1042,Southeast,First Aid & Safety,2,Daily Safety Report Refresh,field_operations,62,49,13,0.7903
+TRN-00208,LOC-1042,Southeast,First Aid & Safety,2,SDS and Vendor Source Updates,field_operations,61,46,12,0.7541
+TRN-00209,LOC-1042,Southeast,First Aid & Safety,2,Corrective Action Coding,safety_leads,47,39,5,0.8298
+TRN-00210,LOC-1042,Southeast,First Aid & Safety,2,Leader Request Triage,business_leaders,41,35,3,0.8537
+TRN-00211,LOC-1043,Southeast,Fire Protection,4,Report Exception Intake,safety_leads,56,38,18,0.6786
+TRN-00212,LOC-1043,Southeast,Fire Protection,4,Daily Safety Report Refresh,field_operations,46,32,14,0.6957
+TRN-00213,LOC-1043,Southeast,Fire Protection,4,SDS and Vendor Source Updates,field_operations,46,27,16,0.587
+TRN-00214,LOC-1043,Southeast,Fire Protection,4,Corrective Action Coding,safety_leads,51,35,12,0.6863
+TRN-00215,LOC-1043,Southeast,Fire Protection,4,Leader Request Triage,business_leaders,45,34,9,0.7556
+TRN-00216,LOC-1044,Southeast,Fire Protection,2,Report Exception Intake,safety_leads,48,38,10,0.7917
+TRN-00217,LOC-1044,Southeast,Fire Protection,2,Daily Safety Report Refresh,field_operations,47,45,0,0.9574
+TRN-00218,LOC-1044,Southeast,Fire Protection,2,SDS and Vendor Source Updates,field_operations,50,45,5,0.9
+TRN-00219,LOC-1044,Southeast,Fire Protection,2,Corrective Action Coding,safety_leads,67,60,5,0.8955
+TRN-00220,LOC-1044,Southeast,Fire Protection,2,Leader Request Triage,business_leaders,46,42,2,0.913
+TRN-00221,LOC-1045,Southeast,Fire Protection,4,Report Exception Intake,safety_leads,50,33,16,0.66
+TRN-00222,LOC-1045,Southeast,Fire Protection,4,Daily Safety Report Refresh,field_operations,55,30,23,0.5455
+TRN-00223,LOC-1045,Southeast,Fire Protection,4,SDS and Vendor Source Updates,field_operations,61,53,5,0.8689
+TRN-00224,LOC-1045,Southeast,Fire Protection,4,Corrective Action Coding,safety_leads,51,33,16,0.6471
+TRN-00225,LOC-1045,Southeast,Fire Protection,4,Leader Request Triage,business_leaders,27,16,11,0.5926
+TRN-00226,LOC-1046,Southeast,Facility Services,4,Report Exception Intake,safety_leads,13,9,4,0.6923
+TRN-00227,LOC-1046,Southeast,Facility Services,4,Daily Safety Report Refresh,field_operations,9,7,0,0.7778
+TRN-00228,LOC-1046,Southeast,Facility Services,4,SDS and Vendor Source Updates,field_operations,9,6,0,0.6667
+TRN-00229,LOC-1046,Southeast,Facility Services,4,Corrective Action Coding,safety_leads,29,17,9,0.5862
+TRN-00230,LOC-1046,Southeast,Facility Services,4,Leader Request Triage,business_leaders,15,9,2,0.6
+TRN-00231,LOC-1047,Southeast,Facility Services,3,Report Exception Intake,safety_leads,28,22,4,0.7857
+TRN-00232,LOC-1047,Southeast,Facility Services,3,Daily Safety Report Refresh,field_operations,23,16,6,0.6957
+TRN-00233,LOC-1047,Southeast,Facility Services,3,SDS and Vendor Source Updates,field_operations,43,26,16,0.6047
+TRN-00234,LOC-1047,Southeast,Facility Services,3,Corrective Action Coding,safety_leads,57,44,9,0.7719
+TRN-00235,LOC-1047,Southeast,Facility Services,3,Leader Request Triage,business_leaders,26,18,7,0.6923
+TRN-00236,LOC-1048,Southeast,Facility Services,3,Report Exception Intake,safety_leads,41,33,7,0.8049
+TRN-00237,LOC-1048,Southeast,Facility Services,3,Daily Safety Report Refresh,field_operations,54,37,17,0.6852
+TRN-00238,LOC-1048,Southeast,Facility Services,3,SDS and Vendor Source Updates,field_operations,46,35,7,0.7609
+TRN-00239,LOC-1048,Southeast,Facility Services,3,Corrective Action Coding,safety_leads,34,26,6,0.7647
+TRN-00240,LOC-1048,Southeast,Facility Services,3,Leader Request Triage,business_leaders,51,33,14,0.6471
+TRN-00241,LOC-1049,South Central,Uniform Rental,2,Report Exception Intake,safety_leads,30,24,6,0.8
+TRN-00242,LOC-1049,South Central,Uniform Rental,2,Daily Safety Report Refresh,field_operations,12,8,2,0.6667
+TRN-00243,LOC-1049,South Central,Uniform Rental,2,SDS and Vendor Source Updates,field_operations,11,10,0,0.9091
+TRN-00244,LOC-1049,South Central,Uniform Rental,2,Corrective Action Coding,safety_leads,8,6,2,0.75
+TRN-00245,LOC-1049,South Central,Uniform Rental,2,Leader Request Triage,business_leaders,24,20,0,0.8333
+TRN-00246,LOC-1050,South Central,Uniform Rental,3,Report Exception Intake,safety_leads,32,23,9,0.7188
+TRN-00247,LOC-1050,South Central,Uniform Rental,3,Daily Safety Report Refresh,field_operations,33,25,4,0.7576
+TRN-00248,LOC-1050,South Central,Uniform Rental,3,SDS and Vendor Source Updates,field_operations,45,32,13,0.7111
+TRN-00249,LOC-1050,South Central,Uniform Rental,3,Corrective Action Coding,safety_leads,29,18,10,0.6207
+TRN-00250,LOC-1050,South Central,Uniform Rental,3,Leader Request Triage,business_leaders,37,29,7,0.7838
+TRN-00251,LOC-1051,South Central,Uniform Rental,1,Report Exception Intake,safety_leads,51,47,1,0.9216
+TRN-00252,LOC-1051,South Central,Uniform Rental,1,Daily Safety Report Refresh,field_operations,30,24,5,0.8
+TRN-00253,LOC-1051,South Central,Uniform Rental,1,SDS and Vendor Source Updates,field_operations,8,7,0,0.875
+TRN-00254,LOC-1051,South Central,Uniform Rental,1,Corrective Action Coding,safety_leads,14,13,0,0.9286
+TRN-00255,LOC-1051,South Central,Uniform Rental,1,Leader Request Triage,business_leaders,10,7,0,0.7
+TRN-00256,LOC-1052,South Central,First Aid & Safety,1,Report Exception Intake,safety_leads,16,15,0,0.9375
+TRN-00257,LOC-1052,South Central,First Aid & Safety,1,Daily Safety Report Refresh,field_operations,28,24,3,0.8571
+TRN-00258,LOC-1052,South Central,First Aid & Safety,1,SDS and Vendor Source Updates,field_operations,18,15,0,0.8333
+TRN-00259,LOC-1052,South Central,First Aid & Safety,1,Corrective Action Coding,safety_leads,38,37,0,0.9737
+TRN-00260,LOC-1052,South Central,First Aid & Safety,1,Leader Request Triage,business_leaders,13,12,0,0.9231
+TRN-00261,LOC-1053,South Central,First Aid & Safety,4,Report Exception Intake,safety_leads,8,6,1,0.75
+TRN-00262,LOC-1053,South Central,First Aid & Safety,4,Daily Safety Report Refresh,field_operations,14,8,3,0.5714
+TRN-00263,LOC-1053,South Central,First Aid & Safety,4,SDS and Vendor Source Updates,field_operations,24,16,6,0.6667
+TRN-00264,LOC-1053,South Central,First Aid & Safety,4,Corrective Action Coding,safety_leads,14,8,5,0.5714
+TRN-00265,LOC-1053,South Central,First Aid & Safety,4,Leader Request Triage,business_leaders,12,7,1,0.5833
+TRN-00266,LOC-1054,South Central,First Aid & Safety,4,Report Exception Intake,safety_leads,8,5,0,0.625
+TRN-00267,LOC-1054,South Central,First Aid & Safety,4,Daily Safety Report Refresh,field_operations,29,16,9,0.5517
+TRN-00268,LOC-1054,South Central,First Aid & Safety,4,SDS and Vendor Source Updates,field_operations,8,6,0,0.75
+TRN-00269,LOC-1054,South Central,First Aid & Safety,4,Corrective Action Coding,safety_leads,19,11,6,0.5789
+TRN-00270,LOC-1054,South Central,First Aid & Safety,4,Leader Request Triage,business_leaders,18,14,4,0.7778
+TRN-00271,LOC-1055,South Central,Fire Protection,1,Report Exception Intake,safety_leads,21,15,2,0.7143
+TRN-00272,LOC-1055,South Central,Fire Protection,1,Daily Safety Report Refresh,field_operations,20,19,0,0.95
+TRN-00273,LOC-1055,South Central,Fire Protection,1,SDS and Vendor Source Updates,field_operations,22,20,2,0.9091
+TRN-00274,LOC-1055,South Central,Fire Protection,1,Corrective Action Coding,safety_leads,24,24,0,1.0
+TRN-00275,LOC-1055,South Central,Fire Protection,1,Leader Request Triage,business_leaders,44,41,0,0.9318
+TRN-00276,LOC-1056,South Central,Fire Protection,2,Report Exception Intake,safety_leads,60,48,9,0.8
+TRN-00277,LOC-1056,South Central,Fire Protection,2,Daily Safety Report Refresh,field_operations,33,22,7,0.6667
+TRN-00278,LOC-1056,South Central,Fire Protection,2,SDS and Vendor Source Updates,field_operations,38,34,2,0.8947
+TRN-00279,LOC-1056,South Central,Fire Protection,2,Corrective Action Coding,safety_leads,41,31,10,0.7561
+TRN-00280,LOC-1056,South Central,Fire Protection,2,Leader Request Triage,business_leaders,51,35,13,0.6863
+TRN-00281,LOC-1057,South Central,Fire Protection,2,Report Exception Intake,safety_leads,8,6,0,0.75
+TRN-00282,LOC-1057,South Central,Fire Protection,2,Daily Safety Report Refresh,field_operations,25,18,4,0.72
+TRN-00283,LOC-1057,South Central,Fire Protection,2,SDS and Vendor Source Updates,field_operations,11,8,0,0.7273
+TRN-00284,LOC-1057,South Central,Fire Protection,2,Corrective Action Coding,safety_leads,33,19,12,0.5758
+TRN-00285,LOC-1057,South Central,Fire Protection,2,Leader Request Triage,business_leaders,14,12,2,0.8571
+TRN-00286,LOC-1058,South Central,Facility Services,2,Report Exception Intake,safety_leads,20,16,1,0.8
+TRN-00287,LOC-1058,South Central,Facility Services,2,Daily Safety Report Refresh,field_operations,27,17,6,0.6296
+TRN-00288,LOC-1058,South Central,Facility Services,2,SDS and Vendor Source Updates,field_operations,21,17,4,0.8095
+TRN-00289,LOC-1058,South Central,Facility Services,2,Corrective Action Coding,safety_leads,18,13,2,0.7222
+TRN-00290,LOC-1058,South Central,Facility Services,2,Leader Request Triage,business_leaders,53,45,7,0.8491
+TRN-00291,LOC-1059,South Central,Facility Services,2,Report Exception Intake,safety_leads,30,25,3,0.8333
+TRN-00292,LOC-1059,South Central,Facility Services,2,Daily Safety Report Refresh,field_operations,44,32,11,0.7273
+TRN-00293,LOC-1059,South Central,Facility Services,2,SDS and Vendor Source Updates,field_operations,28,22,5,0.7857
+TRN-00294,LOC-1059,South Central,Facility Services,2,Corrective Action Coding,safety_leads,30,22,4,0.7333
+TRN-00295,LOC-1059,South Central,Facility Services,2,Leader Request Triage,business_leaders,29,19,6,0.6552
+TRN-00296,LOC-1060,South Central,Facility Services,1,Report Exception Intake,safety_leads,35,33,0,0.9429
+TRN-00297,LOC-1060,South Central,Facility Services,1,Daily Safety Report Refresh,field_operations,32,28,1,0.875
+TRN-00298,LOC-1060,South Central,Facility Services,1,SDS and Vendor Source Updates,field_operations,35,33,2,0.9429
+TRN-00299,LOC-1060,South Central,Facility Services,1,Corrective Action Coding,safety_leads,26,21,4,0.8077
+TRN-00300,LOC-1060,South Central,Facility Services,1,Leader Request Triage,business_leaders,23,17,6,0.7391
+TRN-00301,LOC-1061,West,Uniform Rental,1,Report Exception Intake,safety_leads,50,48,2,0.96
+TRN-00302,LOC-1061,West,Uniform Rental,1,Daily Safety Report Refresh,field_operations,36,35,0,0.9722
+TRN-00303,LOC-1061,West,Uniform Rental,1,SDS and Vendor Source Updates,field_operations,19,19,0,1.0
+TRN-00304,LOC-1061,West,Uniform Rental,1,Corrective Action Coding,safety_leads,24,22,1,0.9167
+TRN-00305,LOC-1061,West,Uniform Rental,1,Leader Request Triage,business_leaders,34,27,6,0.7941
+TRN-00306,LOC-1062,West,Uniform Rental,1,Report Exception Intake,safety_leads,33,31,0,0.9394
+TRN-00307,LOC-1062,West,Uniform Rental,1,Daily Safety Report Refresh,field_operations,49,41,7,0.8367
+TRN-00308,LOC-1062,West,Uniform Rental,1,SDS and Vendor Source Updates,field_operations,22,16,6,0.7273
+TRN-00309,LOC-1062,West,Uniform Rental,1,Corrective Action Coding,safety_leads,44,34,7,0.7727
+TRN-00310,LOC-1062,West,Uniform Rental,1,Leader Request Triage,business_leaders,63,54,8,0.8571
+TRN-00311,LOC-1063,West,Uniform Rental,2,Report Exception Intake,safety_leads,8,6,0,0.75
+TRN-00312,LOC-1063,West,Uniform Rental,2,Daily Safety Report Refresh,field_operations,32,27,3,0.8438
+TRN-00313,LOC-1063,West,Uniform Rental,2,SDS and Vendor Source Updates,field_operations,8,5,0,0.625
+TRN-00314,LOC-1063,West,Uniform Rental,2,Corrective Action Coding,safety_leads,8,7,0,0.875
+TRN-00315,LOC-1063,West,Uniform Rental,2,Leader Request Triage,business_leaders,25,23,0,0.92
+TRN-00316,LOC-1064,West,First Aid & Safety,2,Report Exception Intake,safety_leads,25,21,0,0.84
+TRN-00317,LOC-1064,West,First Aid & Safety,2,Daily Safety Report Refresh,field_operations,50,40,6,0.8
+TRN-00318,LOC-1064,West,First Aid & Safety,2,SDS and Vendor Source Updates,field_operations,41,30,11,0.7317
+TRN-00319,LOC-1064,West,First Aid & Safety,2,Corrective Action Coding,safety_leads,55,48,4,0.8727
+TRN-00320,LOC-1064,West,First Aid & Safety,2,Leader Request Triage,business_leaders,15,12,0,0.8
+TRN-00321,LOC-1065,West,First Aid & Safety,4,Report Exception Intake,safety_leads,9,6,1,0.6667
+TRN-00322,LOC-1065,West,First Aid & Safety,4,Daily Safety Report Refresh,field_operations,8,6,0,0.75
+TRN-00323,LOC-1065,West,First Aid & Safety,4,SDS and Vendor Source Updates,field_operations,13,9,1,0.6923
+TRN-00324,LOC-1065,West,First Aid & Safety,4,Corrective Action Coding,safety_leads,8,4,2,0.5
+TRN-00325,LOC-1065,West,First Aid & Safety,4,Leader Request Triage,business_leaders,13,7,4,0.5385
+TRN-00326,LOC-1066,West,First Aid & Safety,2,Report Exception Intake,safety_leads,26,24,0,0.9231
+TRN-00327,LOC-1066,West,First Aid & Safety,2,Daily Safety Report Refresh,field_operations,46,39,6,0.8478
+TRN-00328,LOC-1066,West,First Aid & Safety,2,SDS and Vendor Source Updates,field_operations,56,35,21,0.625
+TRN-00329,LOC-1066,West,First Aid & Safety,2,Corrective Action Coding,safety_leads,39,29,10,0.7436
+TRN-00330,LOC-1066,West,First Aid & Safety,2,Leader Request Triage,business_leaders,53,43,10,0.8113
+TRN-00331,LOC-1067,West,Fire Protection,1,Report Exception Intake,safety_leads,39,39,0,1.0
+TRN-00332,LOC-1067,West,Fire Protection,1,Daily Safety Report Refresh,field_operations,46,45,0,0.9783
+TRN-00333,LOC-1067,West,Fire Protection,1,SDS and Vendor Source Updates,field_operations,33,33,0,1.0
+TRN-00334,LOC-1067,West,Fire Protection,1,Corrective Action Coding,safety_leads,38,35,0,0.9211
+TRN-00335,LOC-1067,West,Fire Protection,1,Leader Request Triage,business_leaders,34,34,0,1.0
+TRN-00336,LOC-1068,West,Fire Protection,4,Report Exception Intake,safety_leads,49,27,22,0.551
+TRN-00337,LOC-1068,West,Fire Protection,4,Daily Safety Report Refresh,field_operations,66,49,16,0.7424
+TRN-00338,LOC-1068,West,Fire Protection,4,SDS and Vendor Source Updates,field_operations,65,45,16,0.6923
+TRN-00339,LOC-1068,West,Fire Protection,4,Corrective Action Coding,safety_leads,73,45,28,0.6164
+TRN-00340,LOC-1068,West,Fire Protection,4,Leader Request Triage,business_leaders,47,28,16,0.5957
+TRN-00341,LOC-1069,West,Fire Protection,1,Report Exception Intake,safety_leads,23,17,3,0.7391
+TRN-00342,LOC-1069,West,Fire Protection,1,Daily Safety Report Refresh,field_operations,23,19,1,0.8261
+TRN-00343,LOC-1069,West,Fire Protection,1,SDS and Vendor Source Updates,field_operations,10,9,1,0.9
+TRN-00344,LOC-1069,West,Fire Protection,1,Corrective Action Coding,safety_leads,16,15,1,0.9375
+TRN-00345,LOC-1069,West,Fire Protection,1,Leader Request Triage,business_leaders,18,15,0,0.8333
+TRN-00346,LOC-1070,West,Facility Services,1,Report Exception Intake,safety_leads,63,60,0,0.9524
+TRN-00347,LOC-1070,West,Facility Services,1,Daily Safety Report Refresh,field_operations,46,40,5,0.8696
+TRN-00348,LOC-1070,West,Facility Services,1,SDS and Vendor Source Updates,field_operations,34,28,6,0.8235
+TRN-00349,LOC-1070,West,Facility Services,1,Corrective Action Coding,safety_leads,41,40,1,0.9756
+TRN-00350,LOC-1070,West,Facility Services,1,Leader Request Triage,business_leaders,42,41,0,0.9762
+TRN-00351,LOC-1071,West,Facility Services,2,Report Exception Intake,safety_leads,15,11,4,0.7333
+TRN-00352,LOC-1071,West,Facility Services,2,Daily Safety Report Refresh,field_operations,9,9,0,1.0
+TRN-00353,LOC-1071,West,Facility Services,2,SDS and Vendor Source Updates,field_operations,13,9,4,0.6923
+TRN-00354,LOC-1071,West,Facility Services,2,Corrective Action Coding,safety_leads,40,30,10,0.75
+TRN-00355,LOC-1071,West,Facility Services,2,Leader Request Triage,business_leaders,8,6,0,0.75
+TRN-00356,LOC-1072,West,Facility Services,3,Report Exception Intake,safety_leads,30,18,11,0.6
+TRN-00357,LOC-1072,West,Facility Services,3,Daily Safety Report Refresh,field_operations,33,25,6,0.7576
+TRN-00358,LOC-1072,West,Facility Services,3,SDS and Vendor Source Updates,field_operations,23,15,4,0.6522
+TRN-00359,LOC-1072,West,Facility Services,3,Corrective Action Coding,safety_leads,24,18,2,0.75
+TRN-00360,LOC-1072,West,Facility Services,3,Leader Request Triage,business_leaders,52,36,15,0.6923

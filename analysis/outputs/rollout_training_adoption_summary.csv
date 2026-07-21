@@ -1,0 +1,53 @@
+region,division,go_live_wave,assigned,completed,overdue,completion_rate
+Midwest,Facility Services,4,196,118,71,0.602
+Northeast,Fire Protection,4,86,53,22,0.6163
+Northeast,First Aid & Safety,4,469,291,162,0.6205
+West,First Aid & Safety,4,51,32,8,0.6275
+South Central,First Aid & Safety,4,154,97,35,0.6299
+Northeast,Facility Services,4,518,331,153,0.639
+Southeast,Facility Services,4,75,48,15,0.64
+West,Fire Protection,4,300,194,98,0.6467
+Midwest,Fire Protection,4,90,59,24,0.6556
+Midwest,Uniform Rental,3,167,111,40,0.6647
+Great Lakes,First Aid & Safety,4,46,31,6,0.6739
+Southeast,Fire Protection,4,488,331,140,0.6783
+West,Facility Services,3,162,112,38,0.6914
+Northeast,Uniform Rental,3,128,90,27,0.7031
+Southeast,Facility Services,3,403,290,93,0.7196
+South Central,Uniform Rental,3,176,127,43,0.7216
+South Central,Fire Protection,2,314,233,59,0.742
+Great Lakes,Facility Services,3,251,187,55,0.745
+South Central,Facility Services,2,300,228,49,0.76
+West,Facility Services,2,85,65,18,0.7647
+Midwest,First Aid & Safety,2,168,129,24,0.7679
+Great Lakes,First Aid & Safety,3,203,156,37,0.7685
+Great Lakes,Uniform Rental,3,217,169,38,0.7788
+West,First Aid & Safety,2,406,321,68,0.7906
+Southeast,First Aid & Safety,2,688,545,110,0.7922
+Midwest,Facility Services,2,360,286,54,0.7944
+Northeast,Uniform Rental,2,177,141,23,0.7966
+Great Lakes,Fire Protection,2,386,308,58,0.7979
+South Central,Uniform Rental,2,85,68,10,0.8
+Great Lakes,Uniform Rental,2,384,313,58,0.8151
+Northeast,Fire Protection,2,567,463,88,0.8166
+Midwest,Uniform Rental,2,273,224,44,0.8205
+Northeast,Uniform Rental,1,98,81,12,0.8265
+West,Uniform Rental,2,81,68,3,0.8395
+Midwest,First Aid & Safety,1,353,298,39,0.8442
+Midwest,Fire Protection,1,213,180,26,0.8451
+Great Lakes,Facility Services,2,288,244,22,0.8472
+Southeast,Uniform Rental,2,224,192,18,0.8571
+South Central,Uniform Rental,1,113,98,6,0.8673
+South Central,Facility Services,1,151,132,13,0.8742
+West,Uniform Rental,1,374,327,37,0.8743
+Great Lakes,Fire Protection,1,129,113,7,0.876
+Midwest,Fire Protection,2,155,136,9,0.8774
+Southeast,Fire Protection,2,258,230,22,0.8915
+Midwest,Uniform Rental,1,246,221,13,0.8984
+South Central,Fire Protection,1,131,119,4,0.9084
+South Central,First Aid & Safety,1,113,103,3,0.9115
+Southeast,Uniform Rental,1,248,228,9,0.9194
+West,Facility Services,1,226,209,12,0.9248
+West,Fire Protection,1,280,261,6,0.9321
+Great Lakes,First Aid & Safety,1,193,181,5,0.9378
+Northeast,First Aid & Safety,1,229,216,8,0.9432

@@ -1,0 +1,16 @@
+request_type,priority,requests,target_met_rate,avg_turnaround_hours
+source_access,urgent,14,0.0,19.25
+exception_review,urgent,31,0.0323,19.4935
+source_access,standard,76,0.6184,44.7934
+exception_review,standard,147,0.6599,44.368
+source_access,low,20,0.7,82.87
+report_training,low,26,0.7692,75.1346
+exception_review,low,45,0.8,80.8867
+ad_hoc_data_pull,low,46,0.8043,74.0391
+report_training,standard,109,0.8624,34.7101
+ad_hoc_data_pull,standard,158,0.8734,34.3918
+metric_definition,standard,65,0.8769,34.7108
+ad_hoc_data_pull,urgent,37,0.8919,8.7649
+report_training,urgent,21,0.9048,8.8476
+metric_definition,urgent,20,0.95,8.09
+metric_definition,low,24,0.9583,68.95

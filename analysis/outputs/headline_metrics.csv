@@ -1,0 +1,2 @@
+source_report_runs,source_exceptions,source_quality_checks,field_support_requests,overall_exception_rate_per_report_run,recurring_report_sla_adherence,average_report_completeness,data_quality_pass_rate,open_high_or_critical_exceptions,rollout_training_completion,field_support_request_sla
+8736,4194,5400,839,0.4801,0.8164,0.9642,0.9642,502,0.7845,0.7569

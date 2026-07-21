@@ -1,0 +1,31 @@
+region,division,source_system,exception_type,severity,owner_group,open_exceptions,max_age_days,field_followups,priority_score
+Southeast,Facility Services,Safety Logic,rollout_training_gap,critical,Data Steward,1,23,1,37.6
+Southeast,Fire Protection,Safety Logic,unmapped_employee_partner,critical,Corporate Safety,1,22,1,36.9
+South Central,First Aid & Safety,PICS,duplicate_incident_key,critical,Field Safety Lead,1,19,0,33.3
+West,First Aid & Safety,Corporate Request,unmapped_employee_partner,critical,Data Steward,1,16,1,32.7
+Great Lakes,First Aid & Safety,Safety Logic,duplicate_incident_key,critical,Data Steward,2,15,0,32.5
+Southeast,Fire Protection,Safety Logic,duplicate_incident_key,critical,Corporate Safety,2,15,0,32.5
+Midwest,Uniform Rental,Corporate Request,rollout_training_gap,critical,Field Safety Lead,1,14,1,31.3
+West,Fire Protection,Corporate Request,unmapped_employee_partner,critical,Field Safety Lead,1,14,1,31.3
+West,Fire Protection,Safety Logic,open_corrective_action,critical,Field Safety Lead,1,14,1,31.3
+Midwest,Uniform Rental,Safety Logic,unmapped_employee_partner,critical,Vendor Coordinator,1,14,1,31.3
+Northeast,First Aid & Safety,ISN,open_corrective_action,critical,Corporate Safety,1,14,1,31.3
+Midwest,First Aid & Safety,Safety Logic,rollout_training_gap,critical,Data Steward,1,13,1,30.6
+Southeast,Uniform Rental,Safety Logic,unmapped_employee_partner,critical,Vendor Coordinator,1,13,1,30.6
+Midwest,Uniform Rental,Safety Logic,missing_completion_date,critical,Corporate Safety,1,15,0,30.5
+Southeast,Uniform Rental,Corporate Request,late_source_extract,critical,Field Safety Lead,1,15,0,30.5
+Southeast,Fire Protection,Safety Logic,missing_location_id,critical,Vendor Coordinator,2,12,0,30.4
+South Central,First Aid & Safety,PICS,rollout_training_gap,critical,Field Safety Lead,1,12,1,29.9
+Northeast,Uniform Rental,Safety Logic,open_corrective_action,critical,Vendor Coordinator,2,7,2,29.9
+Northeast,Fire Protection,Browz,missing_location_id,critical,Vendor Coordinator,1,14,0,29.8
+Great Lakes,Uniform Rental,Safety Logic,duplicate_incident_key,critical,Field Safety Lead,1,14,0,29.8
+West,Uniform Rental,Safety Logic,duplicate_incident_key,critical,Data Steward,1,14,0,29.8
+South Central,First Aid & Safety,Safety Logic,open_corrective_action,critical,Corporate Safety,1,11,1,29.2
+Midwest,Fire Protection,Safety Logic,unmapped_employee_partner,critical,Data Steward,1,11,1,29.2
+Southeast,First Aid & Safety,PICS,unmapped_employee_partner,critical,Data Steward,1,11,1,29.2
+Midwest,First Aid & Safety,Safety Logic,rollout_training_gap,critical,Vendor Coordinator,1,11,1,29.2
+Southeast,First Aid & Safety,MSDS,invalid_vendor_credential,critical,Field Safety Lead,1,13,0,29.1
+West,Fire Protection,Safety Logic,missing_location_id,critical,Field Safety Lead,1,13,0,29.1
+Northeast,Uniform Rental,Safety Logic,late_source_extract,critical,Field Safety Lead,1,13,0,29.1
+Southeast,Uniform Rental,Browz,rollout_training_gap,critical,Field Safety Lead,1,10,1,28.5
+West,Facility Services,Safety Logic,unmapped_employee_partner,critical,Field Safety Lead,1,10,1,28.5
