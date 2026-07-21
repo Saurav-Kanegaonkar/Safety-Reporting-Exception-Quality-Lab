@@ -6,7 +6,7 @@ The project is complete as a non-production, synthetic-data safety reporting qua
 
 Verified steps:
 
-- Generated six source-style CSV tables with 19,602 total data rows.
+- Generated six source-style CSV tables with 19,601 total data rows.
 - Generated seven analysis output files under `analysis/outputs/`.
 - Rendered four evidence images under `docs/images/`.
 - Documented fields in `data_dictionary.md`.

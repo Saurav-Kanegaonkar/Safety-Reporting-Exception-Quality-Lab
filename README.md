@@ -21,7 +21,7 @@ A practical analyst workflow needs both data quality controls and operating reco
 
 ## Data Or Evidence Used
 
-The synthetic dataset contains 19,602 source rows across six source-style CSV tables:
+The synthetic dataset contains 19,601 source rows across six source-style CSV tables:
 
 - `data/field_locations.csv`: 72 synthetic service locations by region, division, support tier, and rollout wave.
 - `data/safety_report_runs.csv`: 8,736 recurring and ad hoc safety report runs with refresh delays, SLA status, completeness, duplicate keys, and unmapped records.
